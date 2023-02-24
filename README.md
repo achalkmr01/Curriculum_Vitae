@@ -2,10 +2,8 @@
 Achal Kumar Singh
 
 Experience Summary:
-    • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.
-       
+    • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.    
     • Experience to write Test cases, execution and bug tracking.
-    
     • Extensively Involved in Functional Testing including Regression Testing, Smoke Testing and Compatibility Testing.
     • Expertise in API Testing using Postman.
     • Expertise in Mobile Application Testing. (iOS and Android)
@@ -21,7 +19,9 @@ Experience Summary:
     • Having a good experience of Database MYSQL
     • Having a good experience of frontend and backend code Deployment in aws servers.
 
+
 Technical Expertise
+
 
 Operating Systems                   Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
 
@@ -76,8 +76,9 @@ Platform
 Linux
 Languages
 Java, SpringBoot, reactJs, ReactNative
-Role
-Test Engineer
+Role      Test Engineer
+
+
 Responsibilities
     • Creating Test Cases according to the Business Requirements covering all possible scenarios 
     • Responsible for performing API Testing using Postman Tool. 
