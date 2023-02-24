@@ -93,6 +93,7 @@ Responsibilities
     • Deployment of applications on AWS Servers 
 
 Project Name:        **Student chat app**
+
 Project Description
 This app is for student asking their doubts by posting questions, images with their classmates, according to the subject they can post their doubt in that particular subject and accordingly teachers are assigned to the classes and they will monitor the posted questions by the students and
 verify them.
@@ -117,8 +118,8 @@ Responsibilities
     • Preparing Test Summary report, Test Execution status report. 
     • Deployment of applications on AWS Servers 
 
-Project Name
-Numi Store
+Project Name    **Numi Store**
+
 Project Description
 
 In this project we have developed Numi web Application, Numi is a mobile medical service that provides convenient testing solutions for healthcare consumers. We collect samples and partner with leading accredited labs to deliver accurate results.
