@@ -178,10 +178,13 @@ Responsibilities
 
 
 
-    Education Details
+**   ** Education Details****
 
 *Degree Degree/                Certificate Institute                Aggregate % / CGPA               Year of Passing   Graduation
+
 *Bachelor of Engineering    Visvesvaraya TechnologicalUniversity     67%                             2012
+
 *12thIntermediate           PTPS College Patratu DT-Ramgarh          51.4%                           2008
+
 *10th(Matriculation)        Vidya Mandir Sirka Hazaribagh            70%                             2005
 
