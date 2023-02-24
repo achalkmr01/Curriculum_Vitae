@@ -1,7 +1,8 @@
 # Curriculum_Vitae
-Achal Kumar Singh
+**Achal Kumar Singh**
 
 Experience Summary:
+
     • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.    
     • Experience to write Test cases, execution and bug tracking.
     • Extensively Involved in Functional Testing including Regression Testing, Smoke Testing and Compatibility Testing.
@@ -20,38 +21,44 @@ Experience Summary:
     • Having a good experience of frontend and backend code Deployment in aws servers.
 
 
-Technical Expertise
+**Technical Expertise:**
 
 
-Operating Systems                   Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
+*Operating Systems                   Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
 
-Cloud                               AWS,RDS,Medstack,
+*Cloud                               AWS,RDS,Medstack,
 
-Database                            RDS, MySQL,Firebase
+*Database                            RDS, MySQL,Firebase
 
-Server                             Tomcat 6.0, Apache,Ngnix
+*Server                             Tomcat 6.0, Apache,Ngnix
 
-Tools                              JIRA, Redmine, Excel,Redash,Docker,Ansible
+*Tools                              JIRA, Redmine, Excel,Redash,Docker,Ansible
 
-Languages                          Java,Spring, SpringBoot, Hibernate, Javascript, Bootstrap
+*Languages                          Java,Spring, SpringBoot, Hibernate, Javascript, Bootstrap
 
 
 
 
 Projects Details:
 
-Project Name
-Numi Health
-Project Description
-Numi Health is a platform to deliver health services to Canadian citizens. The platform consists of Mobile Application, portal and store that includes health service information, lab test selection and scheduling, vaccination scheduling, nutrient therapy and wellness programs. The client is embarking on a future journey to enable patients' avail medical services through a mobile application that is extremely user friendly and can be delivered through all mobile and web platforms. The mobile solution should be integrated with a sophisticated back-end that consists of multiple lab partners, wellness program providers, medical professionals, pricing and payments. Need for a partner to collaborate in the complete software development lifecycle by bringing in innovation, cost-efficiency and faster lead times.
+Project Name        **Numi Health**
 
-Duration            From: Dec 2021
-To: current         3 Months
-Platform            Linux
-Languages           Java, SpringBoot, reactJs, ReactNative
-Role
-Test Engineer
+Project Description:            Numi Health is a platform to deliver health services to Canadian citizens. The platform consists of Mobile Application, portal and store that includes health service information, lab test selection and scheduling, vaccination scheduling, nutrient therapy and wellness programs. The client is embarking on a future journey to enable patients' avail medical services through a mobile application that is extremely user friendly and can be delivered through all mobile and web platforms. The mobile solution should be integrated with a sophisticated back-end that consists of multiple lab partners, wellness program providers, medical professionals, pricing and payments. Need for a partner to collaborate in the complete software development lifecycle by bringing in innovation, cost-efficiency and faster lead times.
+
+
+*Duration            From: Dec 2021
+
+*To: current         3 Months
+
+*Platform            Linux
+
+*Languages           Java, SpringBoot, reactJs, ReactNative
+
+*Role                Test Engineer
+
 Responsibilities
+
+
     • Creating Test Cases according to the Business Requirements covering all possible scenarios 
     • Responsible for performing API Testing using Postman Tool. 
     • Preparing Functional Test Plan, Test Scenarios, Test Case and Test data. 
@@ -63,23 +70,18 @@ Responsibilities
     • Deployment of applications on AWS Servers 
 
 
-Project Name
-Restaurant App
-Project Description
-This app is for ordering food items in a group of friends by creating a group number or single person can also order, by going to that restaurant & scanning the qr code of that particular restaurant.
+Project Name    **Restaurant App**
 
-Duration
-From: Sep 2020
-To: Feb 2022
-13 Months
-Platform
-Linux
-Languages
-Java, SpringBoot, reactJs, ReactNative
-Role      Test Engineer
+Project Description:                This app is for ordering food items in a group of friends by creating a group number or single person can also order, by going to that restaurant & scanning the qr code of that particular restaurant.
+
+Duration            From: Sep 2020              To: Feb 2022            13 Months
+Platform            Linux 
+Languages           Java, SpringBoot, reactJs, ReactNative
+Role                **Test Engineer**
 
 
 Responsibilities
+
     • Creating Test Cases according to the Business Requirements covering all possible scenarios 
     • Responsible for performing API Testing using Postman Tool. 
     • Preparing Functional Test Plan, Test Scenarios, Test Case and Test data. 
@@ -90,8 +92,7 @@ Responsibilities
     • Preparing Test Summary report, Test Execution status report. 
     • Deployment of applications on AWS Servers 
 
-Project Name
-Student chat app
+Project Name:        **Student chat app**
 Project Description
 This app is for student asking their doubts by posting questions, images with their classmates, according to the subject they can post their doubt in that particular subject and accordingly teachers are assigned to the classes and they will monitor the posted questions by the students and
 verify them.
@@ -104,6 +105,7 @@ Java, SpringBoot, reactJs, ReactNative, MySql
 Role
 Test Engineer
 Responsibilities
+
     • Creating Test Cases according to the Business Requirements covering all possible scenarios 
     • Responsible for performing API Testing using Postman Tool. 
     • Preparing Functional Test Plan, Test Scenarios, Test Case and Test data. 
@@ -130,6 +132,7 @@ Java, SpringBoot, reactJs, MySql
 Role
 Test Engineer
 Responsibilities
+
     • Creating Test Cases according to the Business Requirements covering all possible scenarios.
     • Responsible for Functional and Regression testing.
     • Responsible for Bug tracking and reporting.
@@ -140,20 +143,20 @@ Responsibilities
     • Deployment of applications on AWS Servers
 
 
-Project Name
-Your Dost --
+Project Name        **YourDost** 
+
 Project Description
 
 Client is making professional counselling affordable .that are three step Understanding Counselling,Session duration,Outcomes from Counselling. Mostly he has given four types of appointment 1. Chat Appointment 2.video appointment 3. voice appointment 4.Face2Face Appointment. He has also worked with the mental health wellness of different client employees.
-Duration
-From: May 2022 
-To: till Now
-Languages
-Cloud :- Mandrillapp,AWS ,
+
+Duration    From: May 2022          To: till Now
+Languages   PYTHON
+Cloud :-    Mandrillapp,AWS ,
 Database :- Php MySQL,Firebase
-Role
-QA Engineer
+Role        QA Engineer
+
 Responsibilities
+
     • Creating Test Cases according to the Business Requirements covering all possible scenarios 
     • Responsible for performing API Testing using Postman Tool. 
     • Preparing Functional Test Plan, Test Scenarios, Test Case and Test data. 
@@ -166,19 +169,19 @@ Responsibilities
     • Deployment of applications on AWS Servers
     • Wirte python script for automate Test cases
     • Write python script for automate Data.
-Platform
-Linux
-Languages
-Java, SpringBoot, reactJs,Angular,Flutter,Python
-Tools
-Redash,,FreshDesk,Mandrillapp,Docker
+    
+*Platform        Linux
+
+*Languages       Java, SpringBoot, reactJs,Angular,Flutter,Python
+
+*Tools           Redash,,FreshDesk,Mandrillapp,Docker
 
 
 
     Education Details
 
-Degree Degree/                Certificate Institute                Aggregate % / CGPA               Year of Passing   Graduation
-Bachelor of Engineering    Visvesvaraya TechnologicalUniversity     67%                             2012
-12thIntermediate           PTPS College Patratu DT-Ramgarh          51.4%                           2008
-10th(Matriculation)        Vidya Mandir Sirka Hazaribagh            70%                             2005
+*Degree Degree/                Certificate Institute                Aggregate % / CGPA               Year of Passing   Graduation
+*Bachelor of Engineering    Visvesvaraya TechnologicalUniversity     67%                             2012
+*12thIntermediate           PTPS College Patratu DT-Ramgarh          51.4%                           2008
+*10th(Matriculation)        Vidya Mandir Sirka Hazaribagh            70%                             2005
 
