@@ -11,38 +11,27 @@ Experience Summary:
     • Knowledge of Software SDLC and STLC.
     • Extensive knowledge Bug Life Cycle.
     • Knowledge of SQL Server database.
-    • Proven ability to work as a team player as well as an individual. Excellent Interpersonal and Communication skills, coupled with strong technical and problem solving capabilities.
+    • Proven ability to work as a team player as well as an individual. Excellent Interpersonal and Communication skills, coupled with strong technical         and problem solving capabilities.
     • Expertise in error handling and the fixation of bugs within the time limit raised by clients.
     • Experience in tools like smartgit, postman, Putty
-    • Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (AWS) services such as EC2, Auto scaling and configuring Elastic Load Balancer, S3, Glacier for Resource storage and archiving, RDS, and managing network infrastructure using VPC, Route53, Managing Cloud with Cloud Watch, IAM and SNS.
+    • Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (AWS) services such as EC2, Auto scaling and         configuring Elastic Load Balancer, S3, Glacier for Resource storage and archiving, RDS, and managing network infrastructure using VPC, Route53,           Managing Cloud with Cloud Watch, IAM and SNS.
     • Experience in working on version control tools such as GitHub, SourceRepo and GitLab.
     • Having a good experience of Database MYSQL
     • Having a good experience of frontend and backend code Deployment in aws servers.
 
 Technical Expertise
 
-Operating Systems
+Operating Systems                   Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
 
-Windows-XP/2000/2007/2008/2010,Linux,Ubuntu
+Cloud                               AWS,RDS,Medstack,
 
-Cloud
+Database                            RDS, MySQL,Firebase
 
-AWS,RDS,Medstack,
+Server                             Tomcat 6.0, Apache,Ngnix
 
-Database
-RDS, MySQL,Firebase
+Tools                              JIRA, Redmine, Excel,Redash,Docker,Ansible
 
-Server
-
-Tomcat 6.0, Apache,Ngnix
-
-Tools
-
-JIRA, Redmine, Excel,Redash,Docker,Ansible
-
-Languages
-
-Java,Spring, SpringBoot, Hibernate, Javascript, Bootstrap
+Languages                          Java,Spring, SpringBoot, Hibernate, Javascript, Bootstrap
 
 
 
@@ -53,14 +42,11 @@ Project Name
 Numi Health
 Project Description
 Numi Health is a platform to deliver health services to Canadian citizens. The platform consists of Mobile Application, portal and store that includes health service information, lab test selection and scheduling, vaccination scheduling, nutrient therapy and wellness programs. The client is embarking on a future journey to enable patients' avail medical services through a mobile application that is extremely user friendly and can be delivered through all mobile and web platforms. The mobile solution should be integrated with a sophisticated back-end that consists of multiple lab partners, wellness program providers, medical professionals, pricing and payments. Need for a partner to collaborate in the complete software development lifecycle by bringing in innovation, cost-efficiency and faster lead times.
-Duration
-From: Dec 2021
-To: current
-3 Months
-Platform
-Linux
-Languages
-Java, SpringBoot, reactJs, ReactNative
+
+Duration            From: Dec 2021
+To: current         3 Months
+Platform            Linux
+Languages           Java, SpringBoot, reactJs, ReactNative
 Role
 Test Engineer
 Responsibilities
