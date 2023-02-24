@@ -3,7 +3,9 @@ Achal Kumar Singh
 
 Experience Summary:
     • Having 4yrs of IT Experience with relevant experience of 2.9 years in Testing, DevOps, and deployment.
+       
     • Experience to write Test cases, execution and bug tracking.
+    
     • Extensively Involved in Functional Testing including Regression Testing, Smoke Testing and Compatibility Testing.
     • Expertise in API Testing using Postman.
     • Expertise in Mobile Application Testing. (iOS and Android)
