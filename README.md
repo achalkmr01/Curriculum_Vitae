@@ -178,7 +178,7 @@ Responsibilities
 
 
 
-**   ** Education Details****
+**Education Details**
 
 *Degree Degree/                Certificate Institute                Aggregate % / CGPA               Year of Passing   Graduation
 
