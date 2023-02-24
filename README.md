@@ -179,5 +179,3 @@ Bachelor of Engineering    Visvesvaraya TechnologicalUniversity     67%         
 12thIntermediate           PTPS College Patratu DT-Ramgarh          51.4%                           2008
 10th(Matriculation)        Vidya Mandir Sirka Hazaribagh            70%                             2005
 
-
-
