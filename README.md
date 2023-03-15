@@ -184,11 +184,11 @@ Responsibilities
 
 **Education Details**
 
-*Degree Degree/                Certificate Institute                                Year of Passing   Graduation
+•   Degree Degree/                Certificate Institute                                Year of Passing   Graduation
 
-*Bachelor of Engineering    Visvesvaraya TechnologicalUniversity                                 2012
+•   Bachelor of Engineering    Visvesvaraya TechnologicalUniversity                                 2012
 
-*12thIntermediate           PTPS College Patratu DT-Ramgarh                                      2008
+•   12thIntermediate           PTPS College Patratu DT-Ramgarh                                      2008
 
-*10th(Matriculation)        Vidya Mandir Sirka Hazaribagh                                        2005
+•   10th(Matriculation)        Vidya Mandir Sirka Hazaribagh                                        2005
 
